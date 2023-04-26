@@ -41,17 +41,6 @@ img {
   height: auto;
 }
 
-a {
-  color: currentColor;
-}
-
-:active,
-:hover,
-:focus {
-  outline: 0;
-  outline-offset: 0;
-}
-
 .container {
   padding: 20px;
   height: 100%;
